@@ -1,2 +1,2 @@
-# 5.DevopsProject-
-ReactJS Deployment >Automated by Docker-GithubActions (CICD) to VPS server.
+# DevopsProject
+### Docker CI CD deployment > React - API(DRF)-Database-Traefik to VPS server by Github Actions with SSL/https.
